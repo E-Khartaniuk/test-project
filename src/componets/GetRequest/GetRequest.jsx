@@ -28,11 +28,7 @@ function GetRequest({ successRegister, scrollToRef }) {
   }
 
   return (
-    <section
-      id="get-request-section"
-      className={scss.getReqSection}
-      ref={scrollToRef}
-    >
+    <section id="usersAnchor" className={scss.getReqSection} ref={scrollToRef}>
       <div className={scss.container}>
         <h2 className={scss.reqTitle}>Working with GET request</h2>
         <DeveloperCard users={users}></DeveloperCard>

@@ -1,6 +1,6 @@
 {
-  "name": "testtask",
-  "homepage": "https://E-Khartaniuk.github.io/testtask/",
+  "name": "test-project",
+  "homepage": "https://E-Khartaniuk.github.io/test-project/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

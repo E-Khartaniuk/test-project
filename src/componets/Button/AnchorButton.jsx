@@ -1,6 +1,6 @@
-import React from "react";
+import React from 'react'
 
-import scss from "./Button.module.scss";
+import scss from './Button.module.scss'
 
 function AnchorButton({ anchor, className, children }) {
   return (
@@ -9,7 +9,7 @@ function AnchorButton({ anchor, className, children }) {
         {children}
       </a>
     </button>
-  );
+  )
 }
 
-export default AnchorButton;
+export default AnchorButton
